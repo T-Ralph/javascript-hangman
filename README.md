@@ -18,3 +18,4 @@ Add any of the following features:
 Docs: https://docs.google.com/document/d/1vjaV1PrCgSdz66g8iH_HF7fmpPa_xvaaBZyvmaO_MFQ/edit <br>
 Trello: https://trello.com/b/dPUXXKYp/javascript-assignment-hangman-by-t-ralph <br>
 GitHub: https://github.com/TECHCareers-by-Manpower/javascript-assignment-hangman-T-Ralph <br>
+GitHub.IO Page: https://t-ralph.github.io/javascript-hangman/ <br>
