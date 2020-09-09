@@ -72,8 +72,9 @@ main > section:nth-of-type(2) > p {
     letter-spacing: 10px;
 }
 main > section:nth-of-type(2) > img {
-    margin: 5px;
-    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
     height: 300px;
 }
 footer {
@@ -87,7 +88,9 @@ footer {
     display: block;
 }
 main {
-    background-color: #739AC5;
+    background-image: url(../img/background.jpg);
+    background-position: center;
+    color: #FFFFFF;
     padding: 20px;
     display: grid;
     grid-template-columns: 100%;

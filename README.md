@@ -1,4 +1,4 @@
-# JavaScript - Hangman by T-Ralph
+# JavaScript Assignment - Hangman by T-Ralph
 
 ## Requirements
 - User is presented with a word they must guess for, but the word is only shown with underscores instead of letters so that “p r o g r a m m i n g” appears as “_ _ _ _ _ _ _ _ _ _ _”
@@ -13,6 +13,7 @@
 Add any of the following features:
 - Make guesses case-insensitive
 - CSS and C.A.R.P. principles are used to make a nice design
+- Make the game two-player where each player has their own chances
 - Use html and css to draw an actual hangman or display images of the hangman:
 
 Docs: https://docs.google.com/document/d/1vjaV1PrCgSdz66g8iH_HF7fmpPa_xvaaBZyvmaO_MFQ/edit <br>
